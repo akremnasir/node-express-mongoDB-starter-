@@ -1,0 +1,2 @@
+this is a starter project for node and express any one can use it if they dont want to start a project from scratch
+// in order to start what you only need is to add a dotenv file in the root storage then add a variable with a name MONGO_URI and assign it a value of your mongo db conniction string then you need to write 'npm install' in your terminal hit enter after that by typing 'npm start' then hitting enter you can start you project
